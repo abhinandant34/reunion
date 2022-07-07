@@ -1,0 +1,37 @@
+.header
+{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 30vw;
+    height: 8vh;
+}
+.header-items
+{
+    display: flex;
+    gap: 2vw;
+}
+.header-item
+{
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: .5vh .5vw;
+    border-radius: 10px;
+    text-align: center;
+}
+.header-logo{
+    width: 8vw;
+}
+.header-need
+{
+    width: 4vw;
+}
+.header-need:hover
+{
+    width: 4vw;
+    background-color: #F6C6EA;
+}
+.header-btn
+{
+    border: 1px solid black;
+}

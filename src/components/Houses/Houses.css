@@ -1,0 +1,14 @@
+.houses
+{
+    display: flex;
+    justify-content: center;
+    gap: 3vh 5vw;
+    width: 80vw;
+    margin: auto;
+    flex-wrap: wrap;
+}
+.no-data{
+    text-align: center;
+    margin: 5vh auto ;
+    font-size: 2rem;
+}
